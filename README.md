@@ -13,7 +13,7 @@ The Travel Tracker is a web application that allows users to track the countries
 
 1. Home page showing the world map while highlighting current visited countries contained in the database.
 ![Home Page Screenshot](public/images/home.PNG)
-2. Input a country name in the text field located at the top of the page.
+2. Input a country name in the text field located at the top of the page. Click "Add" to add the country.
 ![Country Input Screenshot](public/images/enter.PNG)
 3. If the country is valid, it will be added to your visited countries list.
 ![Country added highlighted on the map Screenshot](public/images/country.PNG)
